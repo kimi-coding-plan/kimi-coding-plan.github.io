@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kimi-coding-plan.github.io/sitemap.xml
